@@ -1,2 +1,1 @@
 Button 1: Xin chào
-Button 2: Tạm biệt
